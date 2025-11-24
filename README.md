@@ -22,4 +22,30 @@ Ce tableau de bord a été développé pour améliorer la visibilité, le suivi 
 - **MySQL**
 - **XAMPP (Localhost)**
 
-## 📁 Structure du projet
+##  Structure du projet
+DIKA_equipment_dashbord_full/
+├── api/
+    ├── daily.php
+    ├── equipements_list.php
+    ├── interventions_list.php
+    ├── monthly.php
+    ├── pannes_list.php
+    ├── summary_cards.php
+    ├── top_equipments.php
+    ├── weekly.php
+├── public/
+    ├── images/
+    ├── auth_check.php
+    ├── change_lang.php
+    ├── change_theme.php
+    ├── dashboard.php
+    ├── equipements_admin.php
+    ├── interventions_admin.php
+    ├── login.php
+    ├── logout.php
+    ├── pannes_admin.php
+    ├── utilisateurs_admin.php
+├── auth_check.php
+├── config.php
+├── lang.php
+├── db.sql
