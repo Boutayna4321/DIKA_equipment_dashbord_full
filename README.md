@@ -51,6 +51,9 @@ DIKA_equipment_dashbord_full/
     ├── utilisateurs_admin.php
     
 ├── auth_check.php
+
 ├── config.php
+
 ├── lang.php
+
 ├── db.sql
